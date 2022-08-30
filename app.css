@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(237, 194, 24);
+}
+
+.box {
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  .box div {
+    width: 100px;
+    height: 100px;
+  }
+
+  button {
+    
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0 750px;
+}
+
+button:hover {
+    background-color: lightgrey;
+    color: white;
+}
+
+
+h2 {
+    color: black;
+    margin: 0 50px;
+    font-size: 45px;
+    text-align: center;
+    
+    
+}
+  
